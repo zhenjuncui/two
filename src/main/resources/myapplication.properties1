@@ -1,0 +1,5 @@
+server.port=8888
+user.id=1
+user.username=zhangsan
+user.age=20
+user.girlFriends=小美

@@ -1,0 +1,15 @@
+server:
+  port: 8888
+user:
+  id: 1
+  username: zhangsan
+  age: 20
+  girlFridends:
+    - 哈哈
+    - 古力娜扎
+    - 迪丽热巴
+    - 阿里巴巴
+
+logging:
+  level:
+    com.leyou: debug
